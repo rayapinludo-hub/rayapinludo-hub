@@ -22,7 +22,7 @@
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name       = "Ludo Rayapin"
+        self.name       = "Ludovick Rayapin"
         self.background = "10 ans en Banking Ops (SocGen, BNP, BforBank, Qonto)"
         self.formation  = "Le Wagon — Data Analytics (RNCP Niveau 6)"
         self.mission    = "Transformer la donnée brute en insights actionnables"
