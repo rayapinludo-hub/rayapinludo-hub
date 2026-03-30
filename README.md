@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4c8ed9&height=220&section=header&text=Ludo%20Rayapin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Ex-Banking%20Ops%20%7C%20Turning%20Raw%20Data%20into%20Decisions&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:4c8ed9&height=220&section=header&text=Ludovick%20Rayapin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Ex-Banking%20Ops%20%7C%20Turning%20Raw%20Data%20into%20Decisions&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- TAGLINE -->
 ### 🎯 10 ans en opérations bancaires. Aujourd'hui, je fais parler les données.
