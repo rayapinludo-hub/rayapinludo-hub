@@ -69,7 +69,7 @@ class DataAnalyst:
 `BigQuery` `dbt` `Python` `Looker Studio`<br><br>
 Extraction API Riot → modélisation dbt → dashboard interactif.<br>
 Analyse des winrates, compositions d'équipe et méta par rang.<br><br>
-[![Voir le repo](https://img.shields.io/badge/→_Voir_le_repo-1a1b27?style=for-the-badge)](https://github.com/rayapinludo-hub/NOM-DU-REPO-LOL)
+[![Voir le repo](https://img.shields.io/badge/→_Voir_le_repo-1a1b27?style=for-the-badge)](https://github.com/rayapinludo-hub/league-of-legends)
 
 </td>
 
@@ -131,9 +131,9 @@ et analyse des parcours d'achat.<br><br>
 ## 💡 Mon parcours en un coup d'œil
 
 ```
-2014-2024  │  Banking Ops → SocGen, BNP Paribas, BforBank, Qonto
-     2025  │  Le Wagon — Certification Data Analytics (RNCP Niv.6)
-     2026  │  Data Analyst / Business Analyst / Freelance 🚀
+2014-2025  │  Banking Ops → SocGen, BNP Paribas, BforBank, Qonto
+     2026  │  Le Wagon — Certification Data Analytics (RNCP Niv.6)
+           │  Data Analyst / Business Analyst / Freelance 🚀
            │  Direction : Maputo, Mozambique 🌍
 ```
 
@@ -148,7 +148,7 @@ et analyse des parcours d'achat.<br><br>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TONLIEN)
+[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovick-rayapin-b60137137/)
 
 <br>
 
